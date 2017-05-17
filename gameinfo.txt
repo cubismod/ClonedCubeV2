@@ -1,7 +1,7 @@
 "GameInfo"
 {
-       game        "Cloned Cube V.2"
-       title       "Cloned Cube V.2"
+       game        "Cloned Cube V2"
+       title       "Cloned Cube V2"
        gamelogo    1
        SupportsDX8     0
        SupportsXbox360 1
