@@ -1,0 +1,23 @@
+"GameInfo"
+{
+       game        "Cloned Cube V.2"
+       title       "Cloned Cube V.2"
+       gamelogo    1
+       SupportsDX8     0
+       SupportsXbox360 1
+       FileSystem
+	{
+           SteamAppId 620 //(YouModName) has ID (here Id of your steam mod)
+           ToolsAppId 211      // Hammer
+           SearchPaths
+           {
+               Game                |gameinfo_path|.
+               Game				         "|gameinfo_path|../../ClonedCubeV2/ClonedCubeV2/"
+      	       Game				         "|gameinfo_path|../../ClonedCubeV2/portal2_dlc2/"
+      	       Game				         "|gameinfo_path|../../Portal 2/portal2/"
+      	       Game				         "|gameinfo_path|../../Portal 2/portal2_dlc2/"
+      	       Game				         "|gameinfo_path|../../Portal 2/portal2_dlc1/"
+      	       platform			       "|gameinfo_path|../../ClonedCubeV2/platform/"
+           }
+       }
+   }
