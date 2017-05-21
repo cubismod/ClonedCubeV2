@@ -1,0 +1,2 @@
+linked_portal_door
+96 x 64
