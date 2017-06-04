@@ -5212,3 +5212,58 @@ Level flags = 2
 Total triangle count: 3886
 Writing c:\program files (x86)\steam\steamapps\common\clonedcubev2\maps_source\ccv2_1.bsp
 22 seconds elapsed
+
+
+
+materialPath: F:\Program Files (x86)\Steam\steamapps\common\Portal 2\portal2\materials
+Loading c:\program files (x86)\steam\steamapps\common\clonedcubev2\maps_source\ccv2_1.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 24 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\clonedcubev2\maps_source\ccv2_1.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (339162 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 1152 texinfos to 461
+Reduced 94 texdatas to 85 (3155 bytes to 2790)
+Writing c:\program files (x86)\steam\steamapps\common\clonedcubev2\maps_source\ccv2_1.bsp
+
+nummapplanes:     (  2672 / 65536 )
+nummapbrushes:    (   957 /  8192 )
+nummapbrushsides: (  6466 / 65536 )
+num_map_overlays: (    23 /   512 )
+nummodels:        (    55 /  1024 )
+num_entities:     (   258 / 16384 )
+
+4 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\clonedcubev2\maps_source\ccv2_1.bsp
+reading c:\program files (x86)\steam\steamapps\common\clonedcubev2\maps_source\ccv2_1.prt
+ 275 portalclusters
+ 504 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 668 visible clusters (0.00%)
+Total clusters visible: 15171
+Average clusters visible: 55
+Building PAS...
+Average clusters audible: 96
+visdatasize:13785  compressed from 22000
+writing c:\program files (x86)\steam\steamapps\common\clonedcubev2\maps_source\ccv2_1.bsp
+0 seconds elapsed

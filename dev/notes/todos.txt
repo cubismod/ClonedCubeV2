@@ -1,6 +1,16 @@
 ccv2_1
 ------
 
+testing implementation for tc2
+soundscapes
+optimizations
 areaportals
 cubemaps
 optimization
+
+tube_spawn
+implement a vgui screen that shows how many times the player has died so far
+https://developer.valvesoftware.com/wiki/VGUI_Screen_Creation
+https://developer.valvesoftware.com/wiki/VGUI_Documentation
+
+vgui may not work for portal 2 tho because it might require code edits, therefore if that doesn't work then we should use like a counter texture instead that is just modified
